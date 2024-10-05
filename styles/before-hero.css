@@ -18,7 +18,8 @@
   text-align: center;
 }
 #carousel .slide a {
-  color: #e31919;
+  color: #cccccc;
+;
   width: 100%
 }
 #carousel .slide img {
